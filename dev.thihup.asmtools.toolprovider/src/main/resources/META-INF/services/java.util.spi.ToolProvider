@@ -1,0 +1,5 @@
+dev.thihup.asmtools.toolprovider.JasmToolProvider
+dev.thihup.asmtools.toolprovider.JcdecToolProvider
+dev.thihup.asmtools.toolprovider.JcoderToolProvider
+dev.thihup.asmtools.toolprovider.JdecToolProvider
+dev.thihup.asmtools.toolprovider.JdisToolProvider
